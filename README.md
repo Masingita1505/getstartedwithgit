@@ -1,2 +1,2 @@
 # getstartedwithgit
-Git for a beginner
+Git for a beginners
